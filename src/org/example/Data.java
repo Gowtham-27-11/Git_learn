@@ -15,6 +15,10 @@ public class Data {
 		l.add(40);
 		int a =l.remove(10);
 		System.out.println(a);
+		System.out.println("Hello world");
+		System.out.println("Hello world is starting program");
+		System.out.println("Hello world is a java program");
+		
 		
 		
 	}
