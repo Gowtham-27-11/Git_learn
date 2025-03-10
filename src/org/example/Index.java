@@ -47,6 +47,8 @@ public class Index {
 	        al.remove(index);
 	  
 	        System.out.println("Modified ArrayList : " + al);
+	        System.out.println("Git is competed");
+	        System.out.println("Git is competed and learning jenkins");
 	    }
 	}
 
